@@ -4,22 +4,22 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** who love
 
 ---
 
-🛠️ Skills  
+## 🛠️ Skills  
 
-Core Expertise:  
+### Core Expertise:  
 - **Frontend**:  
   - HTML5, CSS3, JavaScript (ES6+)  
   - React.js, Next.js  
   - Responsive Design, Tailwind CSS, Bootstrap  
 
-- Backend**:  
+- **Backend**:  
   - Node.js, Express.js  
   - RESTful APIs, GraphQL  
 
-- Database**:  
+- **Database**:  
   - MongoDB, PostgreSQL, Firebase  
 
-Additional Skills:  
+### Additional Skills:  
 - Git & GitHub  
 - Authentication (JWT, OAuth)  
 - Deployment: Netlify, Vercel, Heroku  
@@ -29,21 +29,21 @@ Additional Skills:
 
 ---
 
-🌱 Currently Learning  
+## 🌱 Currently Learning  
 - TypeScript  
 - Docker & Kubernetes  
 - Webpack & Build Optimization  
 
 ---
 
-📚 Projects  
+## 📚 Projects  
 Here’s a quick look at some of the exciting projects I’ve worked on:  
 
-1. E-Health Site**  
+1. **E-Health Site**  
    - **Description**: A platform to manage and access healthcare information efficiently.  
    - **Tech Stack**: React.js, Node.js, MongoDB  
 
-2. To-Do List Application**  
+2. **To-Do List Application**  
    - **Description**: A task management app with a fully integrated backend for data persistence.  
    - **Tech Stack**: React.js, Node.js, PostgreSQL  
 
@@ -51,12 +51,15 @@ Check out my repositories to explore more!
 
 ---
 
- 🤝 Connect with Me  
+## 🤝 Connect with Me  
 - **Portfolio**: [Your Portfolio Link]  
 - **LinkedIn**: [Your LinkedIn Profile]  
 - **Email**: [Your Email Address]  
 
 ---
+
+💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+
 
 💡 *"Code is like humor. When you have to explain it, it’s bad."*  
 
