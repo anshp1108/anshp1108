@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]  
+# 👋 Hi there! I'm Ansh Prajapati  
 
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** who loves building scalable, user-friendly web applications. My journey in web development is fueled by curiosity, problem-solving, and a desire to create impactful solutions.  
 
@@ -52,14 +52,10 @@ Check out my repositories to explore more!
 ---
 
 ## 🤝 Connect with Me  
-- **Portfolio**: [Your Portfolio Link]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **Email**: [Your Email Address]  
+- **LinkedIn**: [Ansh Prajapati](https://www.linkedin.com/in/ansh-prajapati-8005a3252)  
+- **Email**: [anshp1108@gmail.com](mailto:anshp1108@gmail.com)  
 
 ---
-
-💡 *"Code is like humor. When you have to explain it, it’s bad."*  
-
 
 💡 *"Code is like humor. When you have to explain it, it’s bad."*  
 
